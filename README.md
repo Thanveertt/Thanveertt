@@ -1,18 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thanveertt.Thanveertt" />
 
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanveer!;" />
+</h1>
 
-<!--
-**Thanveertt/Thanveertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently Improving **Embedded System**
+
+💬 Ask me about **Embedded C, React, PIC18F, ATmega32, Arduino, LPC21xx**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:muhammedthanveertt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
