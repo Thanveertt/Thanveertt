@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for **Job In Embedded**
+ 🔭 I’m currently looking for **Job In Embedded System**
  
  🌱 I’m currently Improving **Embedded System**
 
@@ -25,3 +25,4 @@
  <a href="https://www.linkedin.com/in/muhammed-thanveer-tt-593a78bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  </div>
