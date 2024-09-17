@@ -32,5 +32,5 @@
 <h2 align="center">⚒️⚙️ Languages-Frameworks-Tools ⚒️⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,arduino,firebase,ai,linux,py,raspberrypi,ubuntu,github,git,python"/><br>
+    <img src="https://skillicons.dev/icons?i=c,arduino,firebase,ai,linux,py,raspberrypi,ubuntu,github,git,ATmega32"/><br>
 </div>
