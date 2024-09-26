@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for **Job In Embedded System**
+ 🔭 I’m currently looking for a Job In **Embedded System**
  
- 🌱 I’m currently Improving **Embedded System**
+ 🌱 I’m currently Improving my Knowledge of **Embedded System**
 
 💬 Ask me about **Embedded C, PIC18F, ATmega32, Arduino, LPC21xx**
 
