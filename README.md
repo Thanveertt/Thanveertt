@@ -12,7 +12,7 @@
  
  🔭 I’m currently looking for a Job In **Embedded System**
  
- 🌱 I’m currently Improving my Knowledge of **Embedded System**
+ 🌱 I’m currently Improving my Knowledge in **Embedded System**
 
 💬 Ask me about **Embedded C, PIC18F, ATmega32, Arduino, LPC21xx**
 
