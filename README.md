@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for a Job In **Embedded System**
+ 🔭 I’m currently Working at Verdant IT Solutions as an **Embedded Systems Engineer**
  
  🌱 I’m currently Working on **Hazard Module**
 
