@@ -12,7 +12,7 @@
  
  🔭 I’m currently Working at Verdant IT Solutions as an **Embedded Systems Engineer**
  
- 🌱 I’m currently Working on **Sun Position Tracking of Solar Panel**
+ 🌱 I’m currently Working on **Patient transfer system**
 
 💬 Ask me about **Embedded C, PIC18F, ATmega32, Arduino, LPC21xx**
 
