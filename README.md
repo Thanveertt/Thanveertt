@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently Working at Verdant IT Solutions as an **Embedded Systems Engineer**
+ 🔭 I’m currently Working at Core Cognitics as an **Embedded And IOT Developer**
  
- 🌱 I’m currently Working on **Patient transfer system**
+ 🌱 I’m currently Working on **Sewage Treatment Plant**
 
 💬 Ask me about **Embedded C, PIC18F, ATmega32, Arduino, LPC21xx**
 
